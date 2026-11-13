@@ -16,7 +16,5 @@
 ## 说明
 
 - 这些 APK 用于 OneUI Toolbox 的相关适配场景，请根据设备、系统版本和地区按需安装。
-- 本仓库并非三星官方仓库，也不代表三星或 OneUI Toolbox 官方发布或背书。
-- Samsung、Galaxy、Samsung Pay 等名称和商标归其各自权利人所有。
 - 安装前可使用仓库中的 `SHA256SUMS.txt` 核对文件完整性。
 
